@@ -1,0 +1,14 @@
+{
+  "name": "@ooanishoo/data-structure-js",
+  "version": "1.0.0",
+  "description": "This is a package that contains different data structures written in javascript or typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ooanishoo",
+  "license": "ISC",
+  "repository": {
+    "url": "git://github.com/ooanishoo/data-structure-js.git"
+  }
+}
